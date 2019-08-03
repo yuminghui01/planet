@@ -1,18 +1,16 @@
 {
-    "name": "project/planet",
-    "description":"brian project planet",
-    "license": "MIT",
+    "name": "brian/planet",
+    "description": "brian's project",
     "authors": [
         {
-            "name": "Brian",
+            "name": "brian",
             "email": "648715996@qq.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "Project\\Planet\\": "src"
+            "Brian\\Planet\\": "src/"
         }
     },
-    "require": {},
-    "minimum-stability": "dev"
+    "require": {}
 }
